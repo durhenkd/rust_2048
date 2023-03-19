@@ -201,4 +201,7 @@ fn main() {
             }
         }
     }
+
+    println!("Game over!");
+
 }
