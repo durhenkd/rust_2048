@@ -7,8 +7,8 @@ This was my very first rust project, so please excuse any dubious code you may s
 As there the project is relatively short (and in one file) i didn't bother to comment much of it, it should be realtively self-explanatory.
 
 Crates used:
-- [crossterm 0.28.1]{https://github.com/crossterm-rs/crossterm}
-- [rand 0.8.5]{https://docs.rs/rand/latest/rand/}
+- [crossterm 0.28.1](https://github.com/crossterm-rs/crossterm)
+- [rand 0.8.5](https://docs.rs/rand/latest/rand/)
 
 ## Download & Running
 
